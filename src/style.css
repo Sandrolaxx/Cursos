@@ -1,0 +1,8 @@
+.aberto {
+    background: green;
+}
+
+.flex {
+    display: flex;
+    flex-wrap: wrap;  
+}
