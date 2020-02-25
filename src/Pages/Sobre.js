@@ -8,7 +8,7 @@ const [form, setForm] = useState({
     email: "",
     mensagem: ""
   });
-
+//Desestruturar para poder acessar os valores
   function handleChange(event) {
     setForm({
       ...form,
